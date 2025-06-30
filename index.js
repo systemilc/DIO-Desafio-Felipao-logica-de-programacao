@@ -12,7 +12,7 @@ const niveis = [
 function calcularNivel(nome, xp) {
   const frase = `O jogador ${nome} tem ${xp} de XP e está no nível `;
   
-  for (const nivel of niveis) {
+  for (nivel of niveis) {
     const min = nivel.min ?? 0;
     const max = nivel.max ?? Infinity;
 
@@ -24,4 +24,4 @@ function calcularNivel(nome, xp) {
 
 }
 
-calcularNivel("jogador1", 1001);
+calcularNivel("Isaac", 1001);
