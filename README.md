@@ -1,3 +1,4 @@
+// Teste de conexão git
 # 🛡️ Desafio de Lógica de Programação - Classificador de Nível de Herói
 
 Desafio prático proposto na **DIO (Digital Innovation One)** com o expert **Felipão**, voltado para o desenvolvimento das bases da lógica de programação usando **JavaScript**.
